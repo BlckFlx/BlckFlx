@@ -3,10 +3,9 @@
 
 
 .- 👋 Hi, I’m @BlckFlx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Artifical Intelligence
+- 🌱 I’m currently learning C# & Machine Learning & SQL
+- 📫 How to reach me on Instagram @10ur.kuday
 
 <!---
 BlckFlx/BlckFlx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
